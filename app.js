@@ -56,25 +56,4 @@ submitBtn.onclick = function () {
     const result = actionsWithNumbers(input1, input2, action)
     printResult(result)
 
-
-    /*if (action == "+") {
-        const sum = Number(input1.value) + Number(input2.value)
-        printResult(sum)
-    }
-
-    else if (action == "-") {
-        const sum = Number(input1.value) - Number(input2.value)
-        printResult(sum)
-    }
-    
-    else if (action == "*") {
-        const sum = Number(input1.value) * Number(input2.value)
-        printResult(sum)
-    }
-
-    else if (action == "/") {
-        const sum = Number(input1.value) / Number(input2.value)
-        printResult(sum)
-    }*/
-
 }

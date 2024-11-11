@@ -1,0 +1,28 @@
+.align{
+    position: absolute;
+    left: 575px;
+}
+
+#title{
+    position: relative;
+    left: 85px;
+}
+
+#resultNumber{
+    position: absolute;
+    left: 150px;
+    padding: 20px;
+    background: lightblue
+}
+
+#resultText{
+    position: relative;
+    top: 25px;
+    left: 135px;
+}
+
+.actions{
+    position: absolute;
+    left: 108px;
+    padding: 15px;
+}
